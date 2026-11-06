@@ -1,0 +1,24 @@
+{
+  "number": 74,
+  "product_id": "JLZ-EDU-SK-060",
+  "chinese_name": "岗位绩效KPI设计",
+  "english_name": "Performance KPI Designer",
+  "repository_name": "edu-performance-kpi-designer",
+  "product_type": "Skill",
+  "category": "06 人力组织中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-performance-kpi-designer-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "岗位职责、业务目标、数据可得性、评价周期和团队协作关系",
+  "main_output": "KPI与过程指标、定义、权重、数据来源、评价节奏和反作弊风险",
+  "package_entries": [
+    "edu-performance-kpi-designer/SKILL.md",
+    "edu-performance-kpi-designer/references/DOMAIN_GUIDE.md",
+    "edu-performance-kpi-designer/references/EXAMPLES.md",
+    "edu-performance-kpi-designer/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
